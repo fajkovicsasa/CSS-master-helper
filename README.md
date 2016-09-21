@@ -1,2 +1,2 @@
 # masterHelper
-Master Helper css - bunch of css classes for easier modifications
+Master Helper CSS - bunch of CSS classes for easier modifications.
