@@ -1,0 +1,35 @@
+/* MARGINS */
+
+/* margin 0 */
+.m-0 {
+    margin: 0px;
+}
+.m-t-0 {
+    margin-top: 0px;
+}
+.m-r-0 {
+    margin-right: 0px;
+}
+.m-b-0 {
+    margin-bottom: 0px;
+}
+.m-l-0 {
+    margin-left: 0px;
+}
+
+/* margin 0 important */
+.m-0-i {
+    margin: 0px !important;
+}
+.m-t-0-i {
+    margin-top: 0px !important;
+}
+.m-r-0-i {
+    margin-right: 0px !important;
+}
+.m-b-0-i {
+    margin-bottom: 0px !important;
+}
+.m-l-0-i {
+    margin-left: 0px !important;
+}
