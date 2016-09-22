@@ -1364,3 +1364,40 @@
 .p-l-500-i {
     padding-left: 500px !important;
 }
+
+
+/* POSITIONS */
+
+/* Without important */
+.position-absolute {
+    position: absolute;
+}
+.position-fixed {
+    position: fixed;
+}
+.position-inherit {
+    position: inherit;
+}
+.position-relative {
+    position: relative;
+}
+.position-static {
+    position: static;
+}
+
+/* With important */
+.position-absolute-i {
+    position: absolute !important;
+}
+.position-fixed-i {
+    position: fixed !important;
+}
+.position-inherit-i {
+    position: inherit !important;
+}
+.position-relative-i {
+    position: relative !important;
+}
+.position-static-i {
+    position: static !important;
+}
