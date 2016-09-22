@@ -33,3 +33,37 @@
 .m-l-0-i {
     margin-left: 0px !important;
 }
+
+/* margin 10 */
+.m-10 {
+    margin: 10px;
+}
+.m-t-10 {
+    margin-top: 10px;
+}
+.m-r-10 {
+    margin-right: 10px;
+}
+.m-b-10 {
+    margin-bottom: 10px;
+}
+.m-l-10 {
+    margin-left: 10px;
+}
+
+/* margin 10 important */
+.m-10-i {
+    margin: 10px !important;
+}
+.m-t-10-i {
+    margin-top: 10px !important;
+}
+.m-r-10-i {
+    margin-right: 10px !important;
+}
+.m-b-10-i {
+    margin-bottom: 10px !important;
+}
+.m-l-10-i {
+    margin-left: 10px !important;
+}
