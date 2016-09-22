@@ -1,3 +1,8 @@
+/* Author: Sasa Fajkovic - fajkovic.sasa@gmail.com */
+
+/* TODO Create a simple CLI tool for auto generation of SCSS, CSS and LESS files */
+/* TODO Create a simple online site for autogeneration of SCSS, CSS and LESS files */
+
 /* MARGINS */
 
 /* margin 0 */
@@ -1401,3 +1406,52 @@
 .position-static-i {
     position: static !important;
 }
+
+
+/* DISPLAYS */
+
+/* OVERFLOWS */
+
+/* BORDERS */
+
+/* WIDTHS */
+
+/* MIN WIDTHS */
+
+/* MAX WIDTHS */
+
+/* HEIGHTS */
+
+/* MIN HEIGHTS */
+
+/* MAX HEIGHTS */
+
+/* CURSORS */
+
+/* FLOATS */
+
+/* OUTLINES */
+
+/* TOPS */
+
+/* BOTTOMS */
+
+/* LEFTS */
+
+/* RIGHTS */
+
+/* Z-INDEXES */
+
+/* WORD-WRAPS */
+
+/* WHITE-SPACES */
+
+/* FONT-FAMILIES */
+
+/* FONT-SIZES */
+
+/* FONT-STYLES */
+
+/* CLEARS */
+
+/* BOX-SIZINGS */
