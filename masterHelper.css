@@ -1,9 +1,8 @@
 /* Author: Sasa Fajkovic - fajkovic.sasa@gmail.com */
 
-/* TODO Create a simple CLI tool for auto generation of SCSS, CSS and LESS files */
-/* TODO Create a simple online site for autogeneration of SCSS, CSS and LESS files */
-
-/* MARGINS */
+/*
+MARGINS
+*/
 
 /* margin 0 */
 .m-0 {
@@ -686,9 +685,9 @@
 }
 
 
-/* PADDINGS */
-
-/* MARGINS */
+/*
+PADDINGS
+*/
 
 /* padding 0 */
 .p-0 {
@@ -1371,9 +1370,11 @@
 }
 
 
-/* POSITIONS */
+/*
+POSITIONS
+*/
 
-/* Without important */
+/* Positions without important */
 .position-absolute {
     position: absolute;
 }
@@ -1390,7 +1391,7 @@
     position: static;
 }
 
-/* With important */
+/* Positions with important */
 .position-absolute-i {
     position: absolute !important;
 }
@@ -1408,7 +1409,102 @@
 }
 
 
-/* DISPLAYS */
+/*
+DISPLAYS
+*/
+
+/* Without important */
+
+.display-inline {
+    display: inline;
+}
+
+.display-inline-block {
+    display: inline-block;
+}
+
+.display-block {
+    display: block;
+}
+
+.display-flex {
+    display: flex;
+}
+
+.display-grid {
+    display: grid;
+}
+
+.display-inline-flex {
+    display: inline-flex;
+}
+
+.display-list-item {
+    display: list-item;
+}
+
+.display-table {
+    display: table;
+}
+
+.display-table-cell {
+    display: table-cell;
+}
+
+.display-table-row {
+    display: table-row;
+}
+
+.display-none {
+    display: none;
+}
+
+/* With important */
+
+.display-inline-i {
+    display: inline !important;
+}
+
+.display-inline-block-i {
+    display: inline-block !important;
+}
+
+.display-block-i {
+    display: block !important;
+}
+
+.display-flex-i {
+    display: flex !important;
+}
+
+.display-grid-i {
+    display: grid !important;
+}
+
+.display-inline-flex-i {
+    display: inline-flex !important;
+}
+
+.display-list-item-i {
+    display: list-item !important;
+}
+
+.display-table-i {
+    display: table !important;
+}
+
+.display-table-cell-i {
+    display: table-cell !important;
+}
+
+.display-table-row-i {
+    display: table-row !important;
+}
+
+.display-none-i {
+    display: none !important;
+}
+
 
 /* OVERFLOWS */
 
