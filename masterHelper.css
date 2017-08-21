@@ -2853,11 +2853,11 @@ DISPLAYS
 }
 
 .cursor-none {
-    cursos: none;
+    cursor: none;
 }
 
-.cursos-pointer {
-    cursos: pointer;
+.cursor-pointer {
+    cursor: pointer;
 }
 
 .cursor-progress {
@@ -2865,14 +2865,14 @@ DISPLAYS
 }
 
 .cursor-text {
-    cursos: text;
+    cursor: text;
 }
 
 .cursor-wait {
-    cursos: wait;
+    cursor: wait;
 }
 
-.cursos-initial {
+.cursor-initial {
     cursor: initial;
 }
 
@@ -2905,11 +2905,11 @@ DISPLAYS
 }
 
 .cursor-none-i {
-    cursos: none !important;
+    cursor: none !important;
 }
 
-.cursos-pointer-i {
-    cursos: pointer !important;
+.cursor-pointer-i {
+    cursor: pointer !important;
 }
 
 .cursor-progress-i {
@@ -2917,14 +2917,14 @@ DISPLAYS
 }
 
 .cursor-text-i {
-    cursos: text !important;
+    cursor: text !important;
 }
 
 .cursor-wait-i {
-    cursos: wait !important;
+    cursor: wait !important;
 }
 
-.cursos-initial-i {
+.cursor-initial-i {
     cursor: initial !important;
 }
 
