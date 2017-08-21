@@ -2930,6 +2930,22 @@ DISPLAYS
 
 /* FLOATS */
 
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left-i {
+    float: left !important;
+}
+
+.float-right-i {
+    float: right !important;
+}
+
 /* OUTLINES */
 
 /* TOPS */
