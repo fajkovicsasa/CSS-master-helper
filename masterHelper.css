@@ -2876,6 +2876,58 @@ DISPLAYS
     cursor: initial;
 }
 
+.cursor-alias-i {
+    cursor: alias !important; 
+}
+
+.cursor-auto-i {
+    cursor: auto !important;
+}
+
+.cursor-copy-i {
+    cursor: copy !important;
+}
+
+.cursor-default-i {
+    cursor: default !important;
+}
+
+.cursor-help-i {
+    cursor: help !important;
+}
+
+.cursor-move-i {
+    cursor: move !important;
+}
+
+.cursor-no-drop-i {
+    cursor: no-drop !important;
+}
+
+.cursor-none-i {
+    cursos: none !important;
+}
+
+.cursos-pointer-i {
+    cursos: pointer !important;
+}
+
+.cursor-progress-i {
+    cursor: progress !important;
+}
+
+.cursor-text-i {
+    cursos: text !important;
+}
+
+.cursor-wait-i {
+    cursos: wait !important;
+}
+
+.cursos-initial-i {
+    cursor: initial !important;
+}
+
 /* FLOATS */
 
 /* OUTLINES */
