@@ -2824,6 +2824,58 @@ DISPLAYS
 
 /* CURSORS */
 
+.cursor-alias {
+    cursor: alias; 
+}
+
+.cursor-auto {
+    cursor: auto;
+}
+
+.cursor-copy {
+    cursor: copy;
+}
+
+.cursor-default {
+    cursor: default;
+}
+
+.cursor-help {
+    cursor: help;
+}
+
+.cursor-move {
+    cursor: move;
+}
+
+.cursor-no-drop {
+    cursor: no-drop;
+}
+
+.cursor-none {
+    cursos: none;
+}
+
+.cursos-pointer {
+    cursos: pointer;
+}
+
+.cursor-progress {
+    cursor: progress;
+}
+
+.cursor-text {
+    cursos: text;
+}
+
+.cursor-wait {
+    cursos: wait;
+}
+
+.cursos-initial {
+    cursor: initial;
+}
+
 /* FLOATS */
 
 /* OUTLINES */
