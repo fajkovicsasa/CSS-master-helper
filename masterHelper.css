@@ -1459,8 +1459,7 @@ DISPLAYS
     display: none;
 }
 
-/* With important */
-
+/* Display important */
 .display-inline-i {
     display: inline !important;
 }
@@ -1504,7 +1503,6 @@ DISPLAYS
 .display-none-i {
     display: none !important;
 }
-
 
 /* OVERFLOWS */
 
@@ -1686,7 +1684,7 @@ DISPLAYS
     width: 250px;
 }
 
-
+/* width important */
 .width-1-i {
     width: 1px !important;
 }
@@ -1893,7 +1891,7 @@ DISPLAYS
     min-width: 250px;
 }
 
-
+/* min-width important */
 .min-width-1-i {
     min-width: 1px !important;
 }
@@ -2100,7 +2098,7 @@ DISPLAYS
     max-width: 250px;
 }
 
-
+/* max-width important */
 .max-width-1-i {
     max-width: 1px !important;
 }
@@ -2307,7 +2305,7 @@ DISPLAYS
     height: 250px;
 }
 
-
+/* height important */
 .height-1-i {
     height: 1px !important;
 }
@@ -2514,6 +2512,7 @@ DISPLAYS
     min-height: 250px;
 }
 
+/* min-height !important */
 .min-height-1-i {
     min-height: 1px !important;
 }
@@ -2720,7 +2719,7 @@ DISPLAYS
     max-height: 250px;
 }
 
-
+/* max-height important */
 .max-height-1-i {
     max-height: 1px !important;
 }
@@ -2875,6 +2874,7 @@ DISPLAYS
     cursor: initial;
 }
 
+/* Cursos important */
 .cursor-alias-i {
     cursor: alias !important; 
 }
@@ -2937,6 +2937,7 @@ DISPLAYS
     float: right;
 }
 
+/* Float important */
 .float-left-i {
     float: left !important;
 }
@@ -3050,8 +3051,7 @@ DISPLAYS
 .top-250 {
     top: 250px;
 }
-
-
+/* top important */
 .top-1-i {
     top: 1px !important;
 }
@@ -3258,7 +3258,7 @@ DISPLAYS
     bottom: 250px;
 }
 
-
+/* Bottom important */
 .bottom-1-i {
     bottom: 1px !important;
 }
@@ -3465,7 +3465,7 @@ DISPLAYS
     left: 250px;
 }
 
-
+/* Left important */
 .left-1-i {
     left: 1px !important;
 }
@@ -3673,6 +3673,7 @@ DISPLAYS
 }
 
 
+/* Right important */
 .right-1-i {
     right: 1px !important;
 }
@@ -3773,22 +3774,29 @@ DISPLAYS
     right: 250px !important;
 }
 
-/* Z-INDEXES */
-
-/* WORD-WRAPS */
-
-/* WHITE-SPACES */
-
-/* FONT-FAMILIES */
-
-/* FONT-SIZES */
-
-/* FONT-STYLES */
-
 /* CLEARS */
 
-/* BOX-SIZINGS */
+.clear-left {
+    clear: left;
+}
 
+.clear-right {
+    clear: right;
+}
 
-/* BORDERS */
-/* TODO */
+.clear-both {
+    clear: both;
+}
+
+/* Clear important */
+.clear-left-i {
+    clear: left !important;
+}
+
+.clear-right-i {
+    clear: right !important;
+}
+
+.clear-both-i {
+    clear: both !important;
+}
